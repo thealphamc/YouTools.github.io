@@ -1,4 +1,4 @@
-[YouTools](https://thealphamc.github.io/tools/)
+[YouTools](https://thealphamc.github.io/youtools/)
 
 © 2024 YouTools - Created by Shaan Andhavarapu
 
